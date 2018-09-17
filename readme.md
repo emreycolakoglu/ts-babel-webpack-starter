@@ -1,3 +1,2 @@
-﻿used Microsofts ts-babel starter with webpack
+﻿Project Skeleton
 
-intented as a basis for new projects
